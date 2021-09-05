@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(113, 190, 235);
+}
+#head{
+    text-align: center;
+    color: #520F9A;
+}
+
+
+#btn_container{
+    text-align: center;
+}
+.hero_btn{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    background-color: #DBC0F9;
+    border: 1px solid #DBC0F9;
+    padding: 12px 34px;
+    font-size: 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+.hero_btn:hover{
+    border: 1px solid #9544ED;
+    background: #9544ED;
+    transition: 1s;
+}
